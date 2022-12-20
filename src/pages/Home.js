@@ -26,7 +26,7 @@ const Home = () => {
 
   return (
     <div className="home">
-      <h1>Facebook (as) the center (will) not hold... </h1>
+      <h1>Facebook (as) the center (that will) not hold...</h1>
       <h3>erasing big tech from the center as a starting point for reconstructing public discourse</h3>
       <button onClick={openSearch} className='open-button'>
         the backstory on this project...
